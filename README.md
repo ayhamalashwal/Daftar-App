@@ -25,7 +25,7 @@ Daftar is distributed directly as an Android APK. You do not need to download it
 
 You can also download the APK from the project's Google Drive distribution link:
 
-**Google Drive:** `https://drive.google.com/drive/u/4/my-drive`
+**Google Drive:** [Here](https://drive.google.com/drive/u/4/my-drive)
 
 ### Installation
 
